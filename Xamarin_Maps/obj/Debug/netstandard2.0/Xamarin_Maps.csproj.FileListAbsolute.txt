@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\bin\Debug\netstandard2.0\Xamarin_Maps.deps.json
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\bin\Debug\netstandard2.0\Xamarin_Maps.dll
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\bin\Debug\netstandard2.0\ref\Xamarin_Maps.dll
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\bin\Debug\netstandard2.0\Xamarin_Maps.pdb
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\Xamarin_Maps.csprojAssemblyReference.cache
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\Xamarin_Maps.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\Xamarin_Maps.AssemblyInfo.cs
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\Xamarin_Maps.dll
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\ref\Xamarin_Maps.dll
+C:\Users\PC\Documents\C#\Xamarin_Maps\Xamarin_Maps\obj\Debug\netstandard2.0\Xamarin_Maps.pdb
